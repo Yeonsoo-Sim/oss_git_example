@@ -44,8 +44,8 @@
 * **_both bold and italic_**
 * * list
 * > blockquote
-* [X] checked box
-* [ ] unchecked box
 * `code`
 * ```long long long  code ```
-* math $a^2 + b^2 = c^2$
+* math $a^2 + b^2 = c^2$  
+* - [X] checked box
+* - [ ] unchecked box
