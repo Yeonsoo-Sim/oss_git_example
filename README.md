@@ -82,10 +82,10 @@
 - `# git commit -am "commit message"`
 - `# git status`, `# git diff`, `git log`, `# git shortlog`,`# git show` -> 상태확인
 - `# git remote add origin <remote repo_path>`
-- `# git pull'
+- `# git pull`
 - `# git push origin master`
 
-![Github Commands](https://images.velog.io/images/jaejaypark/post/75bdb7e8-70d3-4874-8b3f-a65e55fd3c36/스크린샷%202021-11-21%20오후%2010.42.16.png)
+<img src='https://business-science.github.io/shiny-production-with-aws-book/img/09_git_cli/git_commands.png' width=500>
 
 -------------
 ### Week2-3 Github, fork, pull request
@@ -122,3 +122,4 @@
 * math $a^2 + b^2 = c^2$  
 * - [X] checked box
 * - [ ] unchecked box
+* ![image](image_url)
