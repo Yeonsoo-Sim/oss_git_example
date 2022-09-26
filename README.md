@@ -122,4 +122,4 @@
 * math $a^2 + b^2 = c^2$  
 * - [X] checked box
 * - [ ] unchecked box
-* ![image](image_url)
+* ![image] ('image_url')
